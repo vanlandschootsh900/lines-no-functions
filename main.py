@@ -3,7 +3,7 @@
 # Pygame game template
 
 import pygame
-import sys
+import sys; sys.path
 import config 
 
 def init_game():
